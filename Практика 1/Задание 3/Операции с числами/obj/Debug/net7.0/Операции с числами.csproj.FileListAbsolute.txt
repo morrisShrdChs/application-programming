@@ -1,0 +1,30 @@
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\bin\Debug\net7.0\Операции с числами.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\bin\Debug\net7.0\Операции с числами.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\bin\Debug\net7.0\Операции с числами.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\bin\Debug\net7.0\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\bin\Debug\net7.0\Операции с числами.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\refint\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\Операции с числами.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Операции с числами\Операции с числами\obj\Debug\net7.0\ref\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\bin\Debug\net7.0\Операции с числами.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\bin\Debug\net7.0\Операции с числами.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\bin\Debug\net7.0\Операции с числами.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\bin\Debug\net7.0\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\bin\Debug\net7.0\Операции с числами.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\refint\Операции с числами.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\Операции с числами.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 3\Операции с числами\obj\Debug\net7.0\ref\Операции с числами.dll

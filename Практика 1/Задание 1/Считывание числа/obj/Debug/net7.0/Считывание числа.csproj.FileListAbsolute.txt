@@ -1,0 +1,30 @@
+D:\Документы\Колледж\Считывание числа\Считывание числа\bin\Debug\net7.0\Считывание числа.exe
+D:\Документы\Колледж\Считывание числа\Считывание числа\bin\Debug\net7.0\Считывание числа.deps.json
+D:\Документы\Колледж\Считывание числа\Считывание числа\bin\Debug\net7.0\Считывание числа.runtimeconfig.json
+D:\Документы\Колледж\Считывание числа\Считывание числа\bin\Debug\net7.0\Считывание числа.dll
+D:\Документы\Колледж\Считывание числа\Считывание числа\bin\Debug\net7.0\Считывание числа.pdb
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.csproj.AssemblyReference.cache
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.AssemblyInfoInputs.cache
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.AssemblyInfo.cs
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.csproj.CoreCompileInputs.cache
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.dll
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\refint\Считывание числа.dll
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.pdb
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\Считывание числа.genruntimeconfig.cache
+D:\Документы\Колледж\Считывание числа\Считывание числа\obj\Debug\net7.0\ref\Считывание числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\bin\Debug\net7.0\Считывание числа.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\bin\Debug\net7.0\Считывание числа.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\bin\Debug\net7.0\Считывание числа.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\bin\Debug\net7.0\Считывание числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\bin\Debug\net7.0\Считывание числа.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\refint\Считывание числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\Считывание числа.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Задание 1\Считывание числа\obj\Debug\net7.0\ref\Считывание числа.dll

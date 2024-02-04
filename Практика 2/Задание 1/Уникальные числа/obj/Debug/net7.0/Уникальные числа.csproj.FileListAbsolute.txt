@@ -1,0 +1,15 @@
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\bin\Debug\net7.0\Уникальные числа.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\bin\Debug\net7.0\Уникальные числа.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\bin\Debug\net7.0\Уникальные числа.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\bin\Debug\net7.0\Уникальные числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\bin\Debug\net7.0\Уникальные числа.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\refint\Уникальные числа.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\Уникальные числа.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Уникальные числа\Уникальные числа\obj\Debug\net7.0\ref\Уникальные числа.dll

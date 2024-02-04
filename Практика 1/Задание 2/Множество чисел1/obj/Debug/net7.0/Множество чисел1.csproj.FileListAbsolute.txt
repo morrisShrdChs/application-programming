@@ -1,0 +1,15 @@
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\bin\Debug\net7.0\Множество чисел1.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\bin\Debug\net7.0\Множество чисел1.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\bin\Debug\net7.0\Множество чисел1.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\bin\Debug\net7.0\Множество чисел1.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\bin\Debug\net7.0\Множество чисел1.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\refint\Множество чисел1.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\Множество чисел1.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Множество чисел1\Множество чисел1\obj\Debug\net7.0\ref\Множество чисел1.dll

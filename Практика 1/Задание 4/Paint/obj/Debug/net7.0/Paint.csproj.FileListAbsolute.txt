@@ -1,0 +1,15 @@
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.csproj.AssemblyReference.cache
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.AssemblyInfoInputs.cache
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.AssemblyInfo.cs
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.csproj.CoreCompileInputs.cache
+D:\Документы\Колледж\Учебник\Paint\Paint\bin\Debug\net7.0\Paint.exe
+D:\Документы\Колледж\Учебник\Paint\Paint\bin\Debug\net7.0\Paint.deps.json
+D:\Документы\Колледж\Учебник\Paint\Paint\bin\Debug\net7.0\Paint.runtimeconfig.json
+D:\Документы\Колледж\Учебник\Paint\Paint\bin\Debug\net7.0\Paint.dll
+D:\Документы\Колледж\Учебник\Paint\Paint\bin\Debug\net7.0\Paint.pdb
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.dll
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\refint\Paint.dll
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.pdb
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\Paint.genruntimeconfig.cache
+D:\Документы\Колледж\Учебник\Paint\Paint\obj\Debug\net7.0\ref\Paint.dll

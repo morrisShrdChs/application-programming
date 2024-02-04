@@ -1,0 +1,15 @@
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\bin\Debug\net7.0\Повтор буквы.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\bin\Debug\net7.0\Повтор буквы.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\bin\Debug\net7.0\Повтор буквы.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\bin\Debug\net7.0\Повтор буквы.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\bin\Debug\net7.0\Повтор буквы.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\refint\Повтор буквы.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\Повтор буквы.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Повтор буквы\Повтор буквы\obj\Debug\net7.0\ref\Повтор буквы.dll

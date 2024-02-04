@@ -1,0 +1,15 @@
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\bin\Debug\net7.0\Прямоугольник.exe
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\bin\Debug\net7.0\Прямоугольник.deps.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\bin\Debug\net7.0\Прямоугольник.runtimeconfig.json
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\bin\Debug\net7.0\Прямоугольник.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\bin\Debug\net7.0\Прямоугольник.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.csproj.AssemblyReference.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.AssemblyInfoInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.AssemblyInfo.cs
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.csproj.CoreCompileInputs.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\refint\Прямоугольник.dll
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.pdb
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\Прямоугольник.genruntimeconfig.cache
+C:\Users\SofiA\OneDrive\Рабочий стол\мяфк\Прямоугольник\Прямоугольник\obj\Debug\net7.0\ref\Прямоугольник.dll
